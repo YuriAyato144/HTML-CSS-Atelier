@@ -11,6 +11,22 @@ body {
     background-color: #ffffff;
 }
 
+body main, body footer {
+    margin: 40px;
+}
+
+header {
+    background-color: #3C3C3C;
+    padding: 0;
+    margin: 0;
+}
+
+header img {
+    max-width: 14rem;
+    height: auto;
+    width: auto;
+}
+
 img {
     max-width: 100%;
     height: auto;
